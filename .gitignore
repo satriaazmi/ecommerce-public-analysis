@@ -1,0 +1,11 @@
+# Raw data files (kept locally for Dicoding ZIP submission, ignored on GitHub to avoid large file warnings)
+data/
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
