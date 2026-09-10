@@ -1,2 +1,1 @@
-(Salin URL dashboard Streamlit Community Cloud kamu di sini setelah di-deploy)
-Contoh: https://satria-ecommerce-analysis.streamlit.app
+https://ecommerce-public-analysis-satriaazmi.streamlit.app/
